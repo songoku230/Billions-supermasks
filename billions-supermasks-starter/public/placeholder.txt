@@ -1,1 +1,0 @@
-This folder is for static assets like mask PNGs. Add your mask images here (public/masks/*.png).
